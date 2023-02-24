@@ -11,4 +11,5 @@ function abbrevName(name){
 //   console.log(name[0])
 
 // }
+console.log('go')
 
