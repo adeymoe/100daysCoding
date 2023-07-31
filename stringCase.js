@@ -9,4 +9,5 @@ function solve(s){
         lowerC++;
       }
     }
+  }
     return lowerC >= upperC ? s.toLowerCase() : s.toUpperCase()
